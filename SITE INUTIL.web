@@ -1,10 +1,14 @@
 <!DOCTYPE html>
 <html>
-    <head><h1> SITE INUTIL GRANDE </h1>
-    <h4> site inutil não tão grande </h4>
-    <h6> site inutil pequeno </h6>
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <h1> SITE INUTIL GRANDE </h1>
+        <h4> site inutil não tão grande </h4>
+        <h6> site inutil pequeno </h6>
 </head>
-<body><button> oi esse daqui é um botão inutil </button>
+<body>
+    <link rel="stylesheet" href="style.css">
+    <button> oi esse daqui é um botão inutil </button>
     <p> esse é um paragrafo </p>
     <p> outro paragrafo </p>
     
@@ -33,5 +37,3 @@
     <img src="https://s.ftk.li/bZfa4SI" width="350">
 </body>
 </html>
-    
-    
